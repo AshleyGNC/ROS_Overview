@@ -1,7 +1,7 @@
 # ROS_Noetic_Overview
 Exploring ROS and its applications on robotics projects
 
-Main Objective: Communication amongst JavaScript and Python Files for seamless component communication.
+Main Objective: Communication amongst JavaScript and Python Files for Component Interaction
 
 Below is an overview of the work done per day:
 
