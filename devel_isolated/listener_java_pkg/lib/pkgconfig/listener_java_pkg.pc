@@ -1,8 +1,0 @@
-prefix=/home/ashley_garcia/catkin_ws/devel_isolated/listener_java_pkg
-
-Name: listener_java_pkg
-Description: Description of listener_java_pkg
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
