@@ -1,0 +1,8 @@
+prefix=/home/ashley_garcia/catkin_ws/install_isolated
+
+Name: listener_java_pkg
+Description: Description of listener_java_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

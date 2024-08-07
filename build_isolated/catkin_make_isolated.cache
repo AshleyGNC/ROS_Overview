@@ -1,0 +1,2 @@
+listener_java_pkg:listener_pkg:my_python_package:rosjava_core:rosjava_test_msgs:talker_pkg
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/ashley_garcia/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/ashley_garcia/catkin_ws/install_isolated

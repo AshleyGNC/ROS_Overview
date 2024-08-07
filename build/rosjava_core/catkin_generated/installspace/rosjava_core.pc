@@ -1,0 +1,8 @@
+prefix=/home/ashley_garcia/catkin_ws/install
+
+Name: rosjava_core
+Description: Description of rosjava_core
+Version: 0.3.7
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

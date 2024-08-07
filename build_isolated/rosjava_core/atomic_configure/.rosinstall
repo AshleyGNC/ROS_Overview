@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ashley_garcia/catkin_ws/devel_isolated/rosjava_core/setup.sh
