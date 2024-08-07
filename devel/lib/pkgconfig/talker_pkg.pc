@@ -1,8 +1,0 @@
-prefix=/home/ashley_garcia/catkin_ws/devel
-
-Name: talker_pkg
-Description: Description of talker_pkg
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
