@@ -1,0 +1,8 @@
+prefix=/home/ashley_garcia/catkin_cpp_ws/install
+
+Name: listener_cpp
+Description: Description of listener_cpp
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
