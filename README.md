@@ -33,13 +33,15 @@ By the end of this guide, you should have the following four terminals working o
 			$ source devel/setup.bash
 			$ source ~/catkin_ws/devel/setup.bash
 
-Note: After successfully creating the workspace ('catkin_make'), ROS will automatically create a CMakeLists.txt file for your workspace. This repo shows an example of how such file should look like. Do NOT Try to pull it to your workspace from here.
-	
 	2. IMPORTANT so that you don't have to source your workspace every time you run a file from it, add the last command at the bottom of the 'bashrc' file:
-
-			$ nano ~/.bashrc
+			
+   			$ nano ~/.bashrc
 
 ![image](https://github.com/user-attachments/assets/273134b5-71d2-447b-a756-3045ac7bae24)
+
+
+**_Note:_** After successfully creating the workspace ('catkin_make'), ROS will automatically create a CMakeLists.txt file for your workspace. This repo shows an example of how such file should look like. Do NOT try to pull it to your workspace from here.
+
 
 ## ROS Package Creation 
 		
