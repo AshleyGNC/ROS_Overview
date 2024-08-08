@@ -40,7 +40,7 @@ By the end of this guide, you should have the following four terminals working o
 ![image](https://github.com/user-attachments/assets/273134b5-71d2-447b-a756-3045ac7bae24)
 
 
-**_Note:_** After successfully creating the workspace ('catkin_make'), ROS will automatically create a CMakeLists.txt file for your workspace. This repo shows an example of how such file should look like. Do NOT try to pull it to your workspace from here.
+**_Note:_** After you successfully build your workspace in ROS using catkin_make, ROS will automatically generate a CMakeLists.txt file in your workspace’s src directory (i.e., workspace/src/CMakeLists.txt).
 
 
 ## ROS Package Creation 
