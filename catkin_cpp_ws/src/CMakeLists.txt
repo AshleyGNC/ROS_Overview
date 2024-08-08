@@ -1,4 +1,6 @@
 # THIS FILE WILL AUTOMATICALLY BUILD AFTER 'CATKIN_MAKE' COMMAND, NO CHANGES NEED TO BE MADE TO YOUR FILE FOR THIS DEMO
+# THE FOLLOWING IS JUST FOR REFERENCE ON WHAT YOU SHOULD SEE IN YOUR OWN CMAKELISTS.TXT FILE
+'''
 # toplevel CMakeLists.txt for a catkin workspace
 # catkin/cmake/toplevel.cmake
 
@@ -42,3 +44,4 @@ else()
       endif()
     endif()
   endif()
+'''
