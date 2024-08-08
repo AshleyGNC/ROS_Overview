@@ -32,7 +32,9 @@ By the end of this guide, you should have the following four terminals working o
 			$ catkin_make
 			$ source devel/setup.bash
 			$ source ~/catkin_ws/devel/setup.bash
-		
+
+Note: After successfully creating the workspace ('catkin_make'), ROS will automatically create a CMakeLists.txt file for your workspace. This repo shows an example of how such file should look like. Do NOT Try to pull it to your workspace from here.
+	
 	2. IMPORTANT so that you don't have to source your workspace every time you run a file from it, add the last command at the bottom of the 'bashrc' file:
 
 			$ nano ~/.bashrc
@@ -116,7 +118,7 @@ By the end of this guide, you should have the following four terminals working o
 			
    	4. In another terminal run: rosrun talker_pkg listener.py
 
- # Distinct Package Communication 
+### Distinct Package Communication 
 
 The following is supplementary workflow to proof that nodes from different packages can communicate too:
 		- Creating Python pkg 2
