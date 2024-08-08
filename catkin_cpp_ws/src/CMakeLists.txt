@@ -1,9 +1,9 @@
 # THIS FILE WILL AUTOMATICALLY BUILD AFTER 'CATKIN_MAKE' COMMAND, NO CHANGES NEED TO BE MADE TO YOUR FILE FOR THIS DEMO
 # THE FOLLOWING IS JUST FOR REFERENCE ON WHAT YOU SHOULD SEE IN YOUR OWN CMAKELISTS.TXT FILE
-'''
+
 # toplevel CMakeLists.txt for a catkin workspace
 # catkin/cmake/toplevel.cmake
-
+/'
 cmake_minimum_required(VERSION 3.0.2)
 
 project(Project)
@@ -44,4 +44,4 @@ else()
       endif()
     endif()
   endif()
-'''
+'/
