@@ -114,11 +114,17 @@ By the end of this guide, you should have the following four terminals working o
 				$ catkin_make
 				
 
-  	2. In a terminal run: roscore
+  	2. In a terminal run:
+  		
+    		roscore
 
-  	3. In another terminal run: rosrun talker_pkg talker.py
+  	3. In another terminal run:
+  	
+   			rosrun talker_pkg talker.py
 			
-   	4. In another terminal run: rosrun talker_pkg listener.py
+   	4. In another terminal run:
+  		
+    		rosrun talker_pkg listener.py
 
 ### Distinct Package Communication 
 
